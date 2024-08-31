@@ -1,0 +1,19 @@
+.navBar{
+    background-color:blue;
+    opacity: 0.75;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: space-between;
+}
+.left{
+    padding: 10px;
+}
+.right,ul{
+    padding: 20px;
+    color:white;
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
